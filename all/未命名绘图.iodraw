@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJEGozZq5tnFaH1_kdst-5" value="未过线" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="295" width="120" height="40" as="geometry" />
+          <mxGeometry x="555" y="305" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XJEGozZq5tnFaH1_kdst-7" value="调剂" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="489" width="120" height="60" as="geometry" />
