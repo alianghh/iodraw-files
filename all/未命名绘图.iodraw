@@ -29,10 +29,16 @@
           <mxGeometry x="555" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJEGozZq5tnFaH1_kdst-7" value="调剂" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJEGozZq5tnFaH1_kdst-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XJEGozZq5tnFaH1_kdst-9" target="XJEGozZq5tnFaH1_kdst-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJEGozZq5tnFaH1_kdst-9" value="过线" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJEGozZq5tnFaH1_kdst-11" value="过线" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="553" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
